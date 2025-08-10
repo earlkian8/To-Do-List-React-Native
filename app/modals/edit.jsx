@@ -7,7 +7,7 @@ const Edit = ({
   editData,
   setEditData,
   editIndex,
-  setEditIndex,
+  setEditIndex, 
   todoData,
   setTodoData,
 }) => {

@@ -6,7 +6,7 @@ const Delete = ({
   setDeleteModalVisible,
   deleteIndex,
   setDeleteindex,
-  deleteData,
+  deleteData, 
   setDeleteData,
   todoData,
   setTodoData,

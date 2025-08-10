@@ -73,7 +73,7 @@ export default function Index() {
 
       {/* Todo List */}
       <Item
-        todoData={todoData}
+        todoData={todoData} 
         setEditModalVisible={setEditModalVisible}
         setEditIndex={setEditIndex}
         setEditData={setEditData}
